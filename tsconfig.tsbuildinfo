@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/components/bottomnav.tsx","./src/components/exercisevectorsvg.tsx","./src/components/header.tsx","./src/components/workoutsessionmodal.tsx","./src/data/initialdata.ts","./src/views/bodycompview.tsx","./src/views/dashboardview.tsx","./src/views/nutritionview.tsx","./src/views/workoutsview.tsx"],"version":"5.6.3"}
